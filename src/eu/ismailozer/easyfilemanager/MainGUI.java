@@ -404,7 +404,7 @@ public class MainGUI extends javax.swing.JFrame
 	private final String bufferSizeList[] = { "512", "1024", "2048", "4096", "8192", "16384" };
 	private final String bufferSizeFactorList[] = { "1", "2", "4", "8", "16", "32" };
 	String[] fileExtentionList = { "", "mp3", "jpg", "jpeg", "gif", "png", "bmp", "csv", "java", "htm", "html", "php",
-			"txt", "log", "ini", "xml", "sql", "avi", "mpeg", "mp4", "mov", "zip", "pdf", "exe", "jar" };
+			"txt", "log", "ini", "xml", "sql", "avi", "mpeg", "mp4", "mov", "zip", "pdf", "exe", "jar", "json" };
 
 	// private JPanel pnlSearchOptionAdditional;
 	// private JRadioButton rbtSuccessiveUppercaseChars;
