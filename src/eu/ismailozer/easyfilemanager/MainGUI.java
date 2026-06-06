@@ -49,8 +49,8 @@ public class MainGUI extends javax.swing.JFrame
 
 	private static final Dimension DIMENSION_500_22 = new java.awt.Dimension(500, 22);
 	
-	public static final String FILEMANAGER_RELEASE = "2026.02";
-	public static final String FILEMANAGER_RELEASE_DATE = "22.02.2026";
+	public static final String FILEMANAGER_RELEASE = "2026.06";
+	public static final String FILEMANAGER_RELEASE_DATE = "06.06.2026";
 
 	/**
 	 * 
